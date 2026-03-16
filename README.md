@@ -1,5 +1,6 @@
 # dbms-notes
 
+<<<<<<< HEAD
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat) ![Oracle](https://img.shields.io/badge/Oracle-informational?style=flat) ![License](https://img.shields.io/badge/license-MIT-green?style=flat) ![RGPV](https://img.shields.io/badge/University-RGPV-blue?style=flat)
 
 A comprehensive collection of DBMS concepts, notes, SQL scripts, and PL/SQL lab exercises aligned with the **RGPV B.Tech CS-502 syllabus** (Semesters 5 & 6).
@@ -15,10 +16,22 @@ A comprehensive collection of DBMS concepts, notes, SQL scripts, and PL/SQL lab 
 - [Diagrams](#diagrams)
 - [Prerequisites](#prerequisites)
 - [How to use](#how-to-use)
+=======
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+
+A comprehensive collection of DBMS concepts, notes, and implementations for learning and reference.
+
+## Table of contents
+
+- [Topics covered](#topics-covered)
+- [Prerequisites](#prerequisites)
+>>>>>>> 7f7b7c7a3b67f4e2fb38b6fca1405d6b2f06c74a
 - [Contributing](#contributing)
 - [References](#references)
 - [License](#license)
 
+<<<<<<< HEAD
 ---
 
 ## Folder structure
@@ -134,19 +147,45 @@ Pull requests are welcome! If you spot an error or want to add content:
 4. Push and open a pull request
 
 ---
+=======
+## Topics covered
+
+- ER Diagrams
+- SQL Basics
+- Normalization
+- Transactions
+- Indexing
+
+## Prerequisites
+
+- MySQL
+- PostgreSQL
+
+## Contributing
+
+Pull requests are welcome! Please open an issue first to discuss what you'd like to change.
+>>>>>>> 7f7b7c7a3b67f4e2fb38b6fca1405d6b2f06c74a
 
 ## References
 
 - [Database System Concepts – Silberschatz, Korth & Sudarshan](https://db-book.com/)
+<<<<<<< HEAD
 - [NPTEL DBMS Lectures – IIT Bombay](https://nptel.ac.in/courses/106101169)
 - [RGPV Notes – rgpvnotes.in](https://www.rgpvnotes.in/)
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
 
 ---
+=======
+- [NPTEL DBMS Lectures](https://nptel.ac.in/)
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+>>>>>>> 7f7b7c7a3b67f4e2fb38b6fca1405d6b2f06c74a
 
 ## License
 
 [MIT](LICENSE)
+<<<<<<< HEAD
 
 Copyright © 2025 zebavishwakarma
+=======
+>>>>>>> 7f7b7c7a3b67f4e2fb38b6fca1405d6b2f06c74a
